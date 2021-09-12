@@ -8,3 +8,8 @@ public sub(int a=10,int b=5)
 int c=a-b;
 print c;
 }
+public mul(int a=10,int b=5)
+{
+int c=a*b;
+print c;
+}
