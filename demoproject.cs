@@ -24,5 +24,4 @@ int c=a%b;
 print c;
 }
 
-
-public a=b , b=c 
+print a
