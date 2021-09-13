@@ -18,3 +18,8 @@ public div(int a=10,int b=5)
 int c=a/b;
 print c;
 }
+public %(int a=10,int b=5)
+{
+int c=a%b;
+print c;
+}
