@@ -23,4 +23,4 @@ public %(int a=10,int b=5)
 int c=a%b;
 print c;
 }
-print a=b
+print a=b+c
